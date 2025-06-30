@@ -56,6 +56,13 @@ requests
 - Ensure your Notion API token and database/page IDs are properly configured.
 - Update Qdrant host, collection name, and API keys as needed.
 - LLaMA or OpenAI credentials required for chatbot responses.
+- **Huggingface** token for sentence-transformers
+- You must add API credentials for:
+  - **Notion** API Token and Database/Page IDs
+  - **Huggingface** token for sentence-transformers if applicable
+  - **Qdrant** API Key and Host for vector storage
+  - **LLaMA/OpenAI** API Keys for language model responses
+- Update the credentials in your environment or config files before running.
 
 ## 💡 Future Improvements
 - Recursive subpage handling
