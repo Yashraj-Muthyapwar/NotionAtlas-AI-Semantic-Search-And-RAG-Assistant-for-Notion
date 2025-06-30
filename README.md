@@ -42,15 +42,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-### requirements.txt Example:
-```
-notion-client
-qdrant-client
-sentence-transformers
-streamlit
-pyngrok
-requests
-```
 
 ## 🌐 Notes
 - Ensure your **Notion** API token and database/page IDs are properly configured.
