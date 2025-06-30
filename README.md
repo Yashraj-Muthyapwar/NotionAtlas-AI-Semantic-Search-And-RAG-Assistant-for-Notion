@@ -12,6 +12,7 @@ NotionRAG-Project/
 ├── StreamlitApp.py             # Interactive chat app using Streamlit + Ngrok
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
+└── NotionRAG-Demo.mov          # Project DEMO
 ```
 
 ## 🚀 Usage Instructions
