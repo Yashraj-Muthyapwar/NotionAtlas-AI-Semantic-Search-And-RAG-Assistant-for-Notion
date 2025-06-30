@@ -9,10 +9,10 @@ This project demonstrates an end-to-end Retrieval Augmented Generation (RAG) pip
 NotionRAG-Project/
 ├── DatabaseExtractor.py        # Extract Notion workspace pages, save to file
 ├── NotionRAG.ipynb             # Sentence embedding creation and Qdrant ingestion
+├── NotionRAG-Demo.mov          # Project DEMO 📺
 ├── StreamlitApp.py             # Interactive chat app using Streamlit + Ngrok
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
-└── NotionRAG-Demo.mov          # Project DEMO
 ```
 
 ## 🚀 Usage Instructions
