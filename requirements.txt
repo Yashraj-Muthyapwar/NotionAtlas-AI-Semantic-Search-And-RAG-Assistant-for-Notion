@@ -1,0 +1,6 @@
+notion-client
+qdrant-client
+sentence-transformers
+streamlit
+pyngrok
+requests
