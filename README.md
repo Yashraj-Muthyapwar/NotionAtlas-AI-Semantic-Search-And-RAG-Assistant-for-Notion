@@ -28,19 +28,6 @@ This project simplifies the process of building and deploying a knowledge retrie
 - ⚙️ **Environment Consistency:** Uses a well-defined dependencies file for seamless setup across systems.
 - 📊📄 **End-to-End Data Workflow:** Supports data ingestion, embedding, and interactive querying, streamlining knowledge management.
 
-
-## 📂 Project Structure
-
-```
-NotionRAG-Project/
-├── DatabaseExtractor.py        # Extract Notion workspace pages, save to file
-├── NotionRAG.ipynb             # Sentence embedding creation and Qdrant ingestion
-├── NotionRAG-Demo.mov          # Project DEMO 📺
-├── StreamlitApp.py             # Interactive chat app using Streamlit + Ngrok
-├── requirements.txt            # Project dependencies
-└── README.md                   # Project documentation
-```
-
 ## 🚀 Usage Instructions
 
 ### 1. Notion Data Extraction
