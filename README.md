@@ -69,8 +69,6 @@ pip install -r requirements.txt
 - **Huggingface** token for sentence-transformers
 - Update the credentials in your environment or config files before running.
 
-<img width="1512" height="872" alt="notionrag" src="https://github.com/user-attachments/assets/5d9d562c-9035-49d6-88e7-7509bec02889" />
-
 
 ## 💡 Future Improvements
 - Recursive subpage handling
