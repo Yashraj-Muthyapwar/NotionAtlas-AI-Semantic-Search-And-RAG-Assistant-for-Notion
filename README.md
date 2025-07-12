@@ -18,7 +18,9 @@
 
 Notion-RAG-Pipeline is a developer-focused toolkit that transforms your Notion workspace into an intelligent, searchable knowledge base powered by AI. It streamlines data extraction, embedding, and retrieval, enabling seamless, real-time interactions within your Notion environment.
 
-![Uploading neuronotion.png…]()
+<img width="808" height="459" alt="neuronotion" src="https://github.com/user-attachments/assets/be11e3b4-cae1-467c-affc-48f89cff5acb" />
+
+
 
 ### Why Notion-RAG-Pipeline?
 
