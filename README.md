@@ -1,6 +1,9 @@
-<h1 align="center">NOTION-RAG-PIPELINE</h1>
+<h1 align="center">🚀 NotionAtlas — AI Semantic Search & RAG Assistant for Notion</h1>
 
-<p align="center"><i>Transform Knowledge into Action Instantly</i></p>
+<p align="center"><i>Transform your Notion workspace into an interactive, intelligent knowledge assistant — featuring Retrieval-Augmented Generation (RAG), semantic search, and real-time answers from powerful AI models.
+
+---
+</i></p>
 <p align="center"><i>Built with the tools and technologies:</i></p>
 
 <p align="center">
