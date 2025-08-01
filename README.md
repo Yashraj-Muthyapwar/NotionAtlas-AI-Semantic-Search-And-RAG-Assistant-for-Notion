@@ -7,7 +7,6 @@
 <p align="center"><i>Built with the tools and technologies:</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Qdrant-FF6F00?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNScgaGVpZ2h0PScxNScgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBkPSdNMCAxNiBDMCA3LjE2NiA3LjE2NiAwIDE2IDBDMjQuODM0IDAgMzIgNy4xNjYgMzIgMTYgQzMyIDI0LjgzNCAyNC44MzQgMzIgMTYgMzIgQzcuMTY2IDMyIDAgMjQuODM0IDAgMTYgeicgZmlsbD0nI2ZmZicvPjwvc3ZnPg==&logoColor=white" alt="Qdrant">
