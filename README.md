@@ -26,7 +26,7 @@
 
 ---
 
-<img width="810" height="449" alt="NotionAtlas" src="https://github.com/user-attachments/assets/74cd5062-c1ca-4e4b-a82a-240d120fea3b" />
+<img width="810" height="449" alt="NotionAtlas" src="NotionAtlas.png" />
 
 
 
