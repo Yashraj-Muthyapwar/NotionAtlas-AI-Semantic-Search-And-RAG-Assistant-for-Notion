@@ -4,7 +4,7 @@
 
 ---
 </i></p>
-<p align="center"><i>Built with the tools and technologies:</i></p>
+<p align="center"><i>⚡️ Tech Stack</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
