@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Qdrant-FF6F00?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNScgaGVpZ2h0PScxNScgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBkPSdNMCAxNiBDMCA3LjE2NiA3LjE2NiAwIDE2IDBDMjQuODM0IDAgMzIgNy4xNjYgMzIgMTYgQzMyIDI0LjgzNCAyNC44MzQgMzIgMTYgMzIgQzcuMTY2IDMyIDAgMjQuODM0IDAgMTYgeicgZmlsbD0nI2ZmZicvPjwvc3ZnPg==&logoColor=white" alt="Qdrant">
-  <img src="https://img.shields.io/badge/LLaMA-FF0080?logo=llama&logoColor=white" alt="LLaMA">
+  <img src="https://img.shields.io/badge/Qdrant-FF6F00?logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/Llama-0064E0?logo=Meta&logoColor=white" alt="Llama">
   <img src="https://img.shields.io/badge/NotionAPI-000000?logo=notion&logoColor=white" alt="Notion API">
   <img src="https://img.shields.io/badge/HuggingFace-FEDC56?logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
