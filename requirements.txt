@@ -4,3 +4,4 @@ sentence-transformers
 streamlit
 pyngrok
 requests
+aiohttp
