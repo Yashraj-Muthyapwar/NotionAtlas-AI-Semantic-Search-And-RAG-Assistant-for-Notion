@@ -26,7 +26,7 @@
 
 ---
 
-<img width="810" height="449" alt="NotionAtlas" src="NotionAtlas.png" />
+
 
 
 
